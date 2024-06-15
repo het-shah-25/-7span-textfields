@@ -1,5 +1,5 @@
 {
-  "name": "@7span/textfields",
+  "name": "textfields",
   "version": "1.0.0",
   "description": "Customizable text field components for React with Emotion and Material-UI integration.",
   "main": "index.js",
